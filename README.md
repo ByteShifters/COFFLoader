@@ -161,11 +161,11 @@ We welcome contributions from the community! To contribute to this project, plea
 
 If you have any questions or feedback, feel free to reach out:
 
-- [ByteShifters](https://ByteShifters.dev)
-- [Email](mailto:ren@ByteShifters.dev)
+- [ByteShifters](https://ByteShifters.com)
+- [Email](mailto:ren@ByteShifters.com)
 
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/ByteShifters/ActiBot/blob/main/LICENSE) file for more information.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/ByteShifters/COFFLoader/blob/main/LICENSE) file for more information.
 
